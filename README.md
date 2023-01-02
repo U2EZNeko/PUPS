@@ -1,5 +1,5 @@
 # PUPS - Plex User Playlist Share
- Share Plex Playlists from Admin user to Managed users because its not a standard feature somehow.
+ Share Plex Playlists **from Admin user to Managed users** because it's not a standard feature somehow.
  
 ## How to use:
  
