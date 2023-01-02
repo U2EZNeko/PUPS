@@ -1,6 +1,9 @@
 # PUPS - Plex User Playlist Share
  Share Plex Playlists **from Admin user to Managed users** because it's not a standard feature somehow.
  
+ To Plex: No matter how often you try to tell me it works, shared playlists will not show on Plexamp.
+ Your sharing feature is absolutely useless. So here's my own.
+ 
 ## How to use:
  
  Fill in Data inside the script
