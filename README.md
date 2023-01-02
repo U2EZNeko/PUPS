@@ -28,7 +28,7 @@
    
  - I wanted to add functionality for multiple users at once, but then decided against it because they all wanted different playlists. 
  
- 
+ - This goes without saying but for the love of god do not share your admin token n stuff.
  
  
  
