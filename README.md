@@ -33,4 +33,4 @@
  
  
 ### Shoutout to my homie Lew for fixing up my shit code
-### Another shout out to whoever I yoinked the base idea of the script from, was some old janky python script that had similar API calls.
+### Shoutout to OpenGPT for writing the rest.
